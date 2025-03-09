@@ -1,8 +1,11 @@
 h1 {
-    font-size: 50;
+    font-size: 100;
     color: white;
     background-color: black;
 }
 body {
     background-color: black;
+}
+li{
+    color: white;
 }
