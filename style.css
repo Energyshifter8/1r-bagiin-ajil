@@ -20,6 +20,10 @@ h2 {
   font-size: 30px;
   left: 1%;
 }
+.text {
+  width: 550px;
+  height: fit-content;
+}
 .header {
   display: flex;
   flex-direction: row;
@@ -29,4 +33,10 @@ h2 {
 }
 img {
   width: 200px;
+}
+section {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
 }
