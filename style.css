@@ -1,5 +1,5 @@
 h1 {
-  font-size: 50px;
+  font-size: 75px;
   font-variant: small-caps;
   color: white;
   background-color: #000000;
@@ -11,14 +11,29 @@ body {
 button {
   color: white;
   background-color: black;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 360%;
+  /* justify-content: space-x; */
+}
+
+.nav {
+  display: flex;
+  gap: 20px;
+}
+
+.navi {
+  margin-right: 1%;
+}
+.nave {
+  margin-right: 1%;
 }
 button:hover {
-  background-color: white;
+  background-color: gray;
 }
 h2 {
   color: gray;
   font-size: 30px;
-  left: 1%;
   position: relative;
 }
 .text {
@@ -27,11 +42,9 @@ h2 {
 }
 .header {
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
-  padding: 0 50px;
   align-items: center;
-  position: relative;
+  padding: 0 20px;
 }
 img {
   width: 200px;
