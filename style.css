@@ -13,7 +13,7 @@ button {
   background-color: black;
   font-size: 20px;
   cursor: pointer;
-  border-radius: 360%;
+  border-radius: 50%;
   /* justify-content: space-x; */
 }
 
@@ -47,27 +47,37 @@ h2 {
   padding: 0 20px;
 }
 .image-container {
-  position: relative; 
-
+  position: relative;
 }
 
 .img {
-    width: 350px; 
-    height: auto;
-    position: absolute; 
-    z-index: 10;
-
+  width: 350px;
+  height: auto;
+  position: absolute;
+  z-index: 10;
 }
 
-.img1 { top: 5vh; left: 0vw;}
-.img2 { top: -5vh; left: 35vw;}
-.img3 { top: -30vh; left: 75vw;}
-.img4 { top: 5vh; left: 65vw;}
+.img1 {
+  top: 5vh;
+  left: 0vw;
+}
+.img2 {
+  top: -5vh;
+  left: 35vw;
+}
+.img3 {
+  top: -30vh;
+  left: 75vw;
+}
+.img4 {
+  top: 5vh;
+  left: 65vw;
+}
 
 section {
-display: flex;
-flex-direction: column;
-width: 100%;
-height: 100vh;
-position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+  position: relative;
 }
