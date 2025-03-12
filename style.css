@@ -50,6 +50,10 @@ img {
   width: 200px;
   height: auto;
 }
+.img1 { top: 10%; left: 10%; }
+.img2 { top: 20%; right: 20%; }
+.img3 { bottom: 30%; left: 30%; }
+.img4 { bottom: 40%; right: 40%; }
 section {
   display: flex;
   flex-direction: column;
