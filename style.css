@@ -51,7 +51,7 @@ h2 {
 }
 
 .img {
-  width: 350px;
+  width: 360px;
   height: auto;
   position: absolute;
   z-index: 10;
@@ -63,7 +63,7 @@ h2 {
 }
 .img2 {
   top: -5vh;
-  left: 35vw;
+  left: 33vw;
 }
 .img3 {
   top: -30vh;
