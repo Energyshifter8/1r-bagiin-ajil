@@ -54,12 +54,10 @@ img {
 .img2 { top: 20%; right: 20%; }
 .img3 { bottom: 30%; left: 30%; }
 .img4 { bottom: 40%; right: 40%; }
-
-<img src="5a3aff80-152a-49f3-83eb-3c11f02048e9.jpg" alt="A" /width="42" height="42" style="vertical-align:bottom">
 section {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  height: 100vh;
-  position: relative;
+display: flex;
+flex-direction: column;
+width: 100%;
+height: 100vh;
+position: relative;
 }
