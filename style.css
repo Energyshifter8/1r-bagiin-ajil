@@ -52,17 +52,17 @@ h2 {
 }
 
 .img {
-    width: 300px; 
+    width: 350px; 
     height: auto;
     position: absolute; 
     z-index: 10;
 
 }
 
-.img1 { top: 0%; left: 0%;}
-.img2 { top: 0%; left: 35%;}
-.img3 { top: 20%; left: 70%;}
-.img4 { bottom: 30%; left: 80%;}
+.img1 { top: 10vh; left: 0vw;}
+.img2 { top: 0vh; left: 35vw;}
+.img3 { top: -20vh; left: 80vw;}
+.img4 { top: 10vh; left: 65vw;}
 
 section {
 display: flex;
