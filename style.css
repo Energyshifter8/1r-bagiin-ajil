@@ -1,5 +1,5 @@
 h1 {
-  font-size: 65px;
+  font-size: 75px;
   font-variant: small-caps;
   color: white;
   background-color: #000000;
@@ -51,14 +51,14 @@ h2 {
 }
 
 .img {
-  width: 360px;
+  width: 355px;
   height: auto;
   position: absolute;
   z-index: 10;
 }
 
 .img1 {
-  top: 5vh;
+  top: 2vh;
   left: 0vw;
 }
 .img2 {
@@ -67,10 +67,10 @@ h2 {
 }
 .img3 {
   top: -30vh;
-  left: 75vw;
+  left: 70vw;
 }
 .img4 {
-  top: 5vh;
+  top: 2vh;
   left: 65vw;
 }
 
