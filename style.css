@@ -46,9 +46,18 @@ h2 {
   align-items: center;
   padding: 0 20px;
 }
-img {
+img{
   width: 200px;
   height: auto;
+  margin: 10px;
+}
+.image-A {
+  top:10%;
+  left: 5%;
+}
+.image-B {
+  top: 20%;
+  left:10%;
 }
 
 section {
