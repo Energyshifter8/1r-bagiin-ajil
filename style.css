@@ -59,10 +59,10 @@ h2 {
 
 }
 
-.img1 { top: 10vh; left: 0vw;}
-.img2 { top: 0vh; left: 35vw;}
-.img3 { top: -20vh; left: 80vw;}
-.img4 { top: 10vh; left: 65vw;}
+.img1 { top: 5vh; left: 0vw;}
+.img2 { top: -5vh; left: 35vw;}
+.img3 { top: -30vh; left: 75vw;}
+.img4 { top: 5vh; left: 65vw;}
 
 section {
 display: flex;
